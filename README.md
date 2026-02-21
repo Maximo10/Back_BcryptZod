@@ -1,5 +1,8 @@
-# Ejemplo de Cifrado con bcrypt (2o DAM)
+# Ejemplo de Cifrado con bcrypt y zod con front
 
+# Front
+https://github.com/Maximo10/Front_ByZod
+ 
 Backend didactico con Express + TypeScript + Prisma + PostgreSQL para explicar hashing en aplicaciones reales.
 
 ## Objetivos de aprendizaje
